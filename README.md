@@ -1,6 +1,6 @@
 # COMP4651 Assignment-1: EC2 Measurement (2 questions)
 
-### Deadline: 23:59, Feb 24, Friday
+### Deadline: 23:59, Feb 25, Friday
 ---
 
 ### Name:
@@ -22,7 +22,7 @@
     | `t3.medium` |                 |                    |
     | `m5.large`  |                 |                    |
     | `c5d.large` |                 |                    |
- 
+
     > Region: US East (N. Virginia)
 
 ## Question 2: Measure the EC2 Network performance
@@ -44,9 +44,9 @@
 
     | Connection | TCP b/w (Mbps)  | RTT (ms) |
     |------------|-----------------|--------------------|
-    | N. Virginia-Tokyo |                 |                    |
+    | N. Virginia-Oregon |                 |                    |
     | N. Virginia-N. Virginia  |                 |                    |
-    | Tokyo-Tokyo |                 |                    |
- 
+    | Oregon-Oregon |                 |                    |
+
     > All instances are `c5.large`.
- 
+
