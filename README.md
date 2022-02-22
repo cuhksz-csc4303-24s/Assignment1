@@ -1,6 +1,6 @@
 # COMP4651 Assignment-1: EC2 Measurement (2 questions)
 
-### Deadline: 23:59, Feb 25, Friday
+### Deadline: 23:59, Feb 27, Sunday
 ---
 
 ### Name:
@@ -13,7 +13,7 @@
 
     > Your answer goes here.
 
-2. (1 mark) Run your measurement tool on general purpose `t3.medium`, `m5.large`, and `c5d.large` Linux instances, respectively, and find the performance differences among these instances. Launch all instances in the **US East (N. Virginia)** region. Does the performance of EC2 instances increase commensurate with the increase of the number of ECUs and memory resource?  
+2. (1 mark) Run your measurement tool on general purpose `t3.medium`, `m5.large`, and `c5d.large` Linux instances, respectively, and find the performance differences among them. Launch all instances in the **US East (N. Virginia)** region. What about the differences among these instances in terms of CPU and memory performance? Please try explaining the differences. 
 
     In order to answer this question, you need to complete the following table by filling out blanks with the measurement results corresponding to each instance type.
 
